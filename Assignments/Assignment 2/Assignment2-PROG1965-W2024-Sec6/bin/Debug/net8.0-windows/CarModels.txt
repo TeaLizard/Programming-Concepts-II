@@ -1,0 +1,9 @@
+﻿0,Charade,Rocky,Other Daihatsu Models
+1,Accord,Civic,CR-V,CR-Z,CRX,Element,Fit,Odyssey,Passport,Pilot,Prelude,Other Honda Models
+2,Amigo,Ascender,i-280,i-290,i-350,i-370,I-Mark,Impulse,Oasis,Pickup,Trooper,Other Isuzu Models
+3,323,626,929,CX-5,CX-7,CX-9,MAZDA2,MAZDA3,MAZDA5,MAZDA6,Miata MX5,MPV,Protege,Tribute,Other Mazda Models
+4,3000GT,Eclipse,Galant,i,Lancer,Mighty Max,Mirage,Outlander,Outlander Sport,Van,Other Mitsubishi Models,
+5,Altima,Frontier,GT-R,Leaf,Maxima,Murano,Pathfinder,Pickup,Quest,Rogue,Sentra,Van,Versa,Xterra,Other Nissan Models
+6,Forester,Impreza,Impreza WRX,Legacy,Outback,SVX,XT,XV Crosstrek,Other Subaru Models
+7,Aerio,Esteem,Reno,Swift,SX4,Vitara,Other Suzuki Models
+8,4Runner,Avalon,Camry,Celica,Corolla,Corona,Cressida,Echo,FJ Cruiser,Highlander,Land Cruiser,Matrix,Pickup,Previa,Prius,Prius C,Prius V,RAV4,Sequoia,Sienna,Solara,Supra,Tacoma,Tercel,Tundra,Van,Venza,Yaris,Other Toyota Models

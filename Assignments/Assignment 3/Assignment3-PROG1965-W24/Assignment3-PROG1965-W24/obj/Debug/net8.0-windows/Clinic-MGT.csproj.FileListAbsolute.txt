@@ -1,0 +1,40 @@
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.exe
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.deps.json
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.runtimeconfig.json
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.dll
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.pdb
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.FormMain.resources
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.csproj.GenerateResource.cache
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.AssemblyInfoInputs.cache
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.AssemblyInfo.cs
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.dll
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\refint\Clinic-MGT.dll
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.pdb
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.genruntimeconfig.cache
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\ref\Clinic-MGT.dll
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormManagePatients.resources
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormManageStaff.resources
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormManageDocuments.resources
+C:\Users\Muhammad Javed\source\repos\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormDoctorManagePatients.resources
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.FormMain.resources
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormDoctorManagePatients.resources
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormManageDocuments.resources
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormManagePatients.resources
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Assignment3_PROG1965_W24.Forms.FormManageStaff.resources
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.csproj.GenerateResource.cache
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.AssemblyInfoInputs.cache
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.AssemblyInfo.cs
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.csproj.CoreCompileInputs.cache
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.dll
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\refint\Clinic-MGT.dll
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.pdb
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.exe
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.deps.json
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.runtimeconfig.json
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.dll
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\bin\Debug\net8.0-windows\Clinic-MGT.pdb
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\Clinic-MGT.genruntimeconfig.cache
+C:\School\Level 2\Level 2 C#\Assignment3-PROG1965-W24\Assignment3-PROG1965-W24\obj\Debug\net8.0-windows\ref\Clinic-MGT.dll

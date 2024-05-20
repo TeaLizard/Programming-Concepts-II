@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinalExamPROG1965W24/1.0.0": {
+        "runtime": {
+          "FinalExamPROG1965W24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalExamPROG1965W24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

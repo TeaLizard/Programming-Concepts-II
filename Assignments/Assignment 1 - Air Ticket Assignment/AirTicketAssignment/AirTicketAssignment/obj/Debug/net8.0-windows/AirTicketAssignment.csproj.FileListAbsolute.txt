@@ -1,0 +1,17 @@
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\bin\Debug\net8.0-windows\AirTicketAssignment.exe
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\bin\Debug\net8.0-windows\AirTicketAssignment.deps.json
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\bin\Debug\net8.0-windows\AirTicketAssignment.runtimeconfig.json
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\bin\Debug\net8.0-windows\AirTicketAssignment.dll
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\bin\Debug\net8.0-windows\AirTicketAssignment.pdb
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.Form1.resources
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.Properties.Resources.resources
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.csproj.GenerateResource.cache
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.AssemblyInfo.cs
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.dll
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\refint\AirTicketAssignment.dll
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.pdb
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\AirTicketAssignment.genruntimeconfig.cache
+C:\Users\Owen\source\repos\AirTicketAssignment\AirTicketAssignment\obj\Debug\net8.0-windows\ref\AirTicketAssignment.dll

@@ -1,0 +1,9 @@
+﻿0,Daihatsu
+1,Honda
+2,Isuzu
+3,Mazda
+4,Mitsubishi
+5,Nissan
+6,Subaru
+7,Suzuki
+8,Toyota

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InClass-Asst5-PROG1965-W24/1.0.0": {
+        "runtime": {
+          "InClass-Asst5-PROG1965-W24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InClass-Asst5-PROG1965-W24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

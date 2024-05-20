@@ -1,0 +1,38 @@
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.exe
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.deps.json
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.runtimeconfig.json
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.pdb
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.AssemblyInfoInputs.cache
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.AssemblyInfo.cs
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\refint\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.pdb
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.genruntimeconfig.cache
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\ref\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.FormTest.resources
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.csproj.GenerateResource.cache
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.Properties.Resources.resources
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.FormPartOne.resources
+C:\Users\Muhammad Javed\source\repos\InClass-Asst5-PROG1965-W24\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.FormPartTwo.resources
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.FormPartOne.resources
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.FormPartTwo.resources
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.FormTest.resources
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass_Asst5_PROG1965_W24.Properties.Resources.resources
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.csproj.GenerateResource.cache
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.AssemblyInfoInputs.cache
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.AssemblyInfo.cs
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.csproj.CoreCompileInputs.cache
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\refint\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.pdb
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.exe
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.deps.json
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.runtimeconfig.json
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.dll
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\bin\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.pdb
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\InClass-Asst5-PROG1965-W24.genruntimeconfig.cache
+C:\Users\Owen\OneDrive\Level 2\Level 2 C#\InClass-Asst5-PROG1965-W24\InClass5\obj\Debug\net8.0-windows\ref\InClass-Asst5-PROG1965-W24.dll

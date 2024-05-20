@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Midterm-PROG1965-W24_Sec6/1.0.0": {
+        "runtime": {
+          "Midterm-PROG1965-W24_Sec6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midterm-PROG1965-W24_Sec6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

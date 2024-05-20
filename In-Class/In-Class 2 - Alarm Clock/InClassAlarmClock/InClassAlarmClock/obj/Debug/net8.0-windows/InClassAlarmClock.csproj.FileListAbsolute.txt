@@ -1,0 +1,17 @@
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\bin\Debug\net8.0-windows\InClassAlarmClock.exe
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\bin\Debug\net8.0-windows\InClassAlarmClock.deps.json
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\bin\Debug\net8.0-windows\InClassAlarmClock.runtimeconfig.json
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\bin\Debug\net8.0-windows\InClassAlarmClock.dll
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\bin\Debug\net8.0-windows\InClassAlarmClock.pdb
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.Form1.resources
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.csproj.GenerateResource.cache
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.AssemblyInfo.cs
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.dll
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\refint\InClassAlarmClock.dll
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.pdb
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.genruntimeconfig.cache
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\ref\InClassAlarmClock.dll
+C:\Users\Owen\source\repos\InClassAlarmClock\InClassAlarmClock\obj\Debug\net8.0-windows\InClassAlarmClock.Properties.Resources.resources

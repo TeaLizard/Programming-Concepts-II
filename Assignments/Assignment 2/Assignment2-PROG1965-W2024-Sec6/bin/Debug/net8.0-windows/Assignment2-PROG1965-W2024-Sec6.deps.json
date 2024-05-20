@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignment2-PROG1965-W2024-Sec6/1.0.0": {
+        "runtime": {
+          "Assignment2-PROG1965-W2024-Sec6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment2-PROG1965-W2024-Sec6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

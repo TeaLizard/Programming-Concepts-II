@@ -1,0 +1,32 @@
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.csproj.GenerateResource.cache
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.AssemblyInfoInputs.cache
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.AssemblyInfo.cs
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm_PROG1965_W24_Sec6.FormPersons.resources
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.exe
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.deps.json
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.runtimeconfig.json
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.pdb
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\refint\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.pdb
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.genruntimeconfig.cache
+C:\Users\Muhammad Javed\source\repos\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\ref\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.exe
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.deps.json
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.runtimeconfig.json
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\bin\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.pdb
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm_PROG1965_W24_Sec6.FormPersons.resources
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.csproj.GenerateResource.cache
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.AssemblyInfoInputs.cache
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.AssemblyInfo.cs
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.csproj.CoreCompileInputs.cache
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\refint\Midterm-PROG1965-W24_Sec6.dll
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.pdb
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\Midterm-PROG1965-W24_Sec6.genruntimeconfig.cache
+C:\Users\Owen\Downloads\Midterm-PROG1965-W24_Sec6\Midterm-PROG1965-W24_Sec6\obj\Debug\net8.0-windows\ref\Midterm-PROG1965-W24_Sec6.dll

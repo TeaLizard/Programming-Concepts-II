@@ -1,0 +1,4 @@
+﻿000001,19-03-1944,5359-555-666-GD,Robert,Mogobe,30 Isabella St.,Toronto,Ontario,L6H 2Z5,Phone:(416)555-6666
+000002,09-11-1971,9859-825-126-HJ,Rubina,Malik,1300 Marlborough Ct.,Oakville,Ontario,L6H 1M7,Phone:(905)373-1276
+000003,23-07-1973,6351-775-629-MK,Ramesh,Patel,109 Bloor St. W.,Toronto,Ontario,L5J 1K7,Phone:(416)826-3772
+000004,11-12-1993,7373-863-377-PL,Khushi,Kore,5100 Bovaird St.,Brampton,Ontario,L5S 7G5,Phone:(905)732-3445

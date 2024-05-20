@@ -1,0 +1,30 @@
+Date: 19-03-2024
+Name: Robert Mogobe DOB: 19-03-1944 HC: 5359-555-666-GD
+COMPLETE BLOOD COUNT
+White Blood Cell (WBC) -- 6.9 k/mcl
+Red Blood Cell (RBC) -- 1.8 m/mcl
+Blood Sugar level -- 120 mg/dl
+Hemoglobin (HB/Hgb)) -- 6.5 g/dl
+Hematocrit (HCT) -- 19.5%
+Mean Cell Volume (MCV) -- 109.6 h/fl
+Mean Cell Hemoglobin (MCH) -- 36.5 h/pg 
+Mean Cell Hb Conc (MCHC) -- 33.3 g/dl
+Cholestrol (LDL) -- 130 mg/dl 
+Cholestrol (HDL) -- 40 mg/dl
+Red Cell Dist Width (RDW) -- 16.0% h
+Platelet count -- 150-450 k/mcl
+Mean Platelet Volume -- 7.9 fL 
+WBC Differential
+Neutrophil (Neut) -- 50%
+Lymphocyte (Lymph) -- 36% 
+Monocyte (Mono) -- 8%
+Eosinophil (Eos) -- 5%
+Basophil (Baso) -- 1%
+Neutrophil, Absolute -- 3.5 k/mcl
+Lymphocyte, Absolute -- 2.5 k/mcl
+Monocyte, Absolute -- 0.6 k/mcl
+Eosinophil, Absolute -- 0.4 k/mcl
+Basophil, Absolute -- 0.1 k/mcl
+Others
+Blood Pressure (systolic) -- 120 mm/hg
+Blood Pressure (diastolic) -- 90 mm/hg

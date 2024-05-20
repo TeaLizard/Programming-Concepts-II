@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\School\\Level 2\\Level 2 C#\\FinalExamPROG1965W24Sec6\\FinalExamPROG1965W24\\FinalExamPROG1965W24.csproj": {}
+  },
+  "projects": {
+    "C:\\School\\Level 2\\Level 2 C#\\FinalExamPROG1965W24Sec6\\FinalExamPROG1965W24\\FinalExamPROG1965W24.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\Level 2\\Level 2 C#\\FinalExamPROG1965W24Sec6\\FinalExamPROG1965W24\\FinalExamPROG1965W24.csproj",
+        "projectName": "FinalExamPROG1965W24",
+        "projectPath": "C:\\School\\Level 2\\Level 2 C#\\FinalExamPROG1965W24Sec6\\FinalExamPROG1965W24\\FinalExamPROG1965W24.csproj",
+        "packagesPath": "C:\\Users\\Owen\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\Level 2\\Level 2 C#\\FinalExamPROG1965W24Sec6\\FinalExamPROG1965W24\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Owen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
